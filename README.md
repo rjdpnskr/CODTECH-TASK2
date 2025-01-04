@@ -29,5 +29,5 @@ To use this tool:
     pip install python-nmap
   Save the code as a Python file (e.g., vulnerability_scanner.py).
   Run the script from your terminal:
-    python vulnerability_scanner.py
+    python vulnerability_scan.py
   Follow the on-screen instructions to select the scanning option and provide the necessary input.  
